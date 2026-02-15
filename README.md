@@ -42,8 +42,8 @@ startup.sh
 
 ## Запуск
 ```bash
-git clone https://github.com/yourusername/telegram-rss-bot.git
-cd telegram-rss-bot
+git clone https://github.com/Mksdnk/rss_news_bot.git
+cd rss_news_bot
 cp .env.example .env
 ```
 
